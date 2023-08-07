@@ -4,7 +4,7 @@ I'm Back-End Developer looking for a job.
 
 - 🌌 I’m currently looking for my first BackEnd Developer opportunity
 
-- 📚 I’m studying ADS at <a href="https://ficr.catolica.edu.br/portal/">FICR</a>
+- 📚 I’m studying Análise e Desenvolvimento de Sistemas at <a href="https://ficr.catolica.edu.br/portal/">FICR</a>
 
 - 📫 How to reach me: j.berglima05@gmail.com
 
