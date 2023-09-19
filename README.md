@@ -1,8 +1,8 @@
 
 ## Hi there, it's < Gutemberg /> 👋
-I'm Back-End Developer looking for a job.
+I'm FullStack Developer looking for a job.
 
-- 🌌 I’m currently looking for my first BackEnd Developer opportunity
+- 🌌 I’m currently looking for my first Developer opportunity
 
 - 📚 I’m studying Análise e Desenvolvimento de Sistemas at <a href="https://ficr.catolica.edu.br/portal/">FICR</a>
 
