@@ -1,8 +1,7 @@
 ## Hi there, it's < Gutemberg /> 👋
 
-I'm a FullStack Developer looking for a job.
+I'm a FullStack Developer.
 
-- 🌌 I’m currently looking for my first Developer opportunity
 - 📚 I’m studying Análise e Desenvolvimento de Sistemas at [FICR](https://ficr.catolica.edu.br/portal/)
 - 📫 How to reach me: j.berglima05@gmail.com
 
